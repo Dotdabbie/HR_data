@@ -42,6 +42,11 @@ The EDA process involved a thorough examination of the dataset to understand the
 Explored relationships between key variables such as age, tenure, and attrition to identify factors influencing employee retention.
 
 ### tools used
+-**Power BI Dashboard:** 
+
+-[download here](https://microsoft.com)
+
+The final deliverable was an interactive Power BI dashboard, designed to visualize attrition rate, current employee, average age, tottal number of employee. slicers were introduced for interactive visualization
 
 - Visualizations:
 
